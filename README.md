@@ -17,7 +17,7 @@ I've led and shipped **enterprise‑grade systems** including:
 * 🤖 AI chatbots & RAG‑based document systems
 * 🏥 InsurTech & EdTech platforms
 
-I care deeply about **clean code, system design, performance optimization, and shipping impact**.
+I care deeply about **clean code, system design and performance optimization**.
 
 ---
 

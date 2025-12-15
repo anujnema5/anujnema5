@@ -57,7 +57,3 @@ I care deeply about **clean code, system design, performance optimization, and s
 * 💼 LinkedIn: [https://www.linkedin.com/in/anuj-nema5](https://www.linkedin.com/in/anuj-nema5)
 * 🐦 X (Twitter): [https://x.com/letscodeanuj](https://x.com/letscodeanuj)
 * 📧 Email: [anujnemajobs@gmail.com](mailto:anujnemajobs@gmail.com)
-
----
-
-⭐ *If you like my work, consider starring my repos!*

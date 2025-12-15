@@ -7,7 +7,7 @@
 
 ## ✨ About Me
 
-I'm a **Full Stack Developer with 3+ years of experience** crafting high‑performance, scalable web applications. I love working close to the system level—**real‑time communication, low‑latency architectures, and AI‑powered products** are my sweet spot.
+I'm a **Full Stack Developer with 3+ years of experience** crafting high‑performance, scalable web applications. I love working close to the system level **real‑time communication, low‑latency architectures, and AI‑powered products** are my sweet spot.
 
 I've led and shipped **enterprise‑grade systems** including:
 

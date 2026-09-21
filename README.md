@@ -3,20 +3,6 @@
 🚀 **Full Stack Developer | Building Scalable & Real‑Time Systems**
 🇮🇳 India | 🌍 Open to Remote & Pan‑India Opportunities
 
----
-
-## ✨ About Me
-
-I'm a **Full Stack Developer with 3 years of experience** crafting high‑performance, scalable web applications. 
-I love working close to the system level **real‑time communication, low‑latency architectures, and AI‑powered products** are my sweet spot.
-
-I've led and shipped **enterprise‑grade systems** including:
-
-* 🎥 Video conferencing platforms (WebRTC SFU)
-* 📊 APM & monitoring dashboards (Grafana‑like)
-* 🤖 AI chatbots & RAG‑based document systems
-* 🏥 InsurTech & EdTech platforms
-
 I care deeply about **clean code, system design and performance optimization**.
 
 ---
@@ -32,7 +18,7 @@ I care deeply about **clean code, system design and performance optimization**.
 
 ### Backend
 
-* Node.js, Express.js, NestJS
+* Node.js, Bun.js, Express.js, NestJS
 * REST APIs, GraphQL
 * Socket.IO, WebSockets, WebRTC
 
@@ -46,7 +32,6 @@ I care deeply about **clean code, system design and performance optimization**.
 
 * OpenAI API, LangChain
 * RAG Systems, Vector Databases
-* Pinecone, Azure Text‑to‑Speech
 
 ---
 

@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anuj Nema
 
 🚀 **Full Stack Developer | Building Scalable & Real‑Time Systems**
-🇮🇳 India | 🌍 Open to Remote & Pan‑India Opportunities
+🌍 Open to Remote & Pan‑India Opportunities
 
 I care deeply about **clean code, system design and performance optimization**.
 
